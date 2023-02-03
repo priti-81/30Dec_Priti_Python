@@ -1,0 +1,1 @@
+print(' '.join(input("enter a string: ").split(' ')[:-1]))
